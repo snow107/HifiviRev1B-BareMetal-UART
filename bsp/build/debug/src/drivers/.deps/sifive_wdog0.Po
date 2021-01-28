@@ -1,0 +1,146 @@
+src/drivers/sifive_wdog0.o: \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/src/drivers/sifive_wdog0.c \
+ metal/machine/platform.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_uart0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/clock.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/compiler.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/riscv_plic0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/riscv_cpu.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/cpu.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/interrupt.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include/stdint.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/stdint.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/machine/_default_types.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/features.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/_newlib_version.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/_intsup.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/_stdint.h \
+ metal/machine.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_gpio0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/gpio.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/io.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/uart.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/fixed-clock.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/memory.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/riscv_clint0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/pmp.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/led.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_i2c0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/i2c.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_pwm0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/pwm.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_rtc0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/rtc.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_spi0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/spi.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_wdog0.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/watchdog.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include-fixed/limits.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include-fixed/syslimits.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/limits.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/newlib-nano/newlib.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/cdefs.h \
+ /home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/syslimits.h
+
+metal/machine/platform.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_uart0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/clock.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include/stddef.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/compiler.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/riscv_plic0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/riscv_cpu.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/cpu.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/interrupt.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include/stdint.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/stdint.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/machine/_default_types.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/features.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/_newlib_version.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/_intsup.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/_stdint.h:
+
+metal/machine.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/gpio.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/io.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/uart.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/fixed-clock.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/memory.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/riscv_clint0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/pmp.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/led.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_i2c0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/i2c.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_pwm0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/pwm.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_rtc0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/rtc.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_spi0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/spi.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_wdog0.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/watchdog.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_lfrosc.h:
+
+/home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include-fixed/limits.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/lib/gcc/riscv64-unknown-elf/8.3.0/include-fixed/syslimits.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/limits.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/newlib-nano/newlib.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/cdefs.h:
+
+/home/jelle/Documents/FreedomStudio/SiFive/riscv64-unknown-elf-gcc-8.3.0-2020.04.1/riscv64-unknown-elf/include/sys/syslimits.h:

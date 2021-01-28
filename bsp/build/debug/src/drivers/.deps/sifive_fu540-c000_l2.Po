@@ -1,0 +1,5 @@
+src/drivers/sifive_fu540-c000_l2.o: \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/src/drivers/sifive_fu540-c000_l2.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

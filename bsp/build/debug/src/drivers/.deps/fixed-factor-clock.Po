@@ -1,0 +1,5 @@
+src/drivers/fixed-factor-clock.o: \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/src/drivers/fixed-factor-clock.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

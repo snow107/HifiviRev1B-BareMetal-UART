@@ -1,0 +1,2 @@
+gloss/crt0.o: \
+ /home/jelle/Documents/project_embed_netrf/Freedom_workspace/sifive_hifive1_revb_PWM_bare_metal/freedom-metal/gloss/crt0.S
